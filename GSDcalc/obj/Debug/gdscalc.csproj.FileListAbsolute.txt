@@ -1,0 +1,10 @@
+C:\Users\123\source\repos\gdscalc\obj\Debug\gdscalc.csprojAssemblyReference.cache
+C:\Users\123\source\repos\gdscalc\obj\Debug\gdscalc.Form1.resources
+C:\Users\123\source\repos\gdscalc\obj\Debug\gdscalc.Properties.Resources.resources
+C:\Users\123\source\repos\gdscalc\obj\Debug\gdscalc.csproj.GenerateResource.cache
+C:\Users\123\source\repos\gdscalc\obj\Debug\gdscalc.csproj.CoreCompileInputs.cache
+C:\Users\123\source\repos\gdscalc\bin\Debug\GSDcalc.exe.config
+C:\Users\123\source\repos\gdscalc\bin\Debug\GSDcalc.exe
+C:\Users\123\source\repos\gdscalc\bin\Debug\GSDcalc.pdb
+C:\Users\123\source\repos\gdscalc\obj\Debug\GSDcalc.exe
+C:\Users\123\source\repos\gdscalc\obj\Debug\GSDcalc.pdb
