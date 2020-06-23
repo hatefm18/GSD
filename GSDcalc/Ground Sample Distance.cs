@@ -32,6 +32,7 @@ namespace gdscalc
         double d;
         double f;
 
+
         private void textBox1_TextChanged(object sender, EventArgs e)
         {
             s = textBox1.Text;
@@ -61,6 +62,21 @@ namespace gdscalc
             {
                 f = ((a * b * 100) / (c * d));
                 label7.Text = f.ToString("#.##");
+            }
+        }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            Application.Restart();
+
+        }
+
+        private void textBox1_KeyPress(object sender, KeyPressEventArgs e)
+        {
+            char number = e.KeyChar;
+            if ((e.KeyChar <= 47 || e.KeyChar >= 58) && number != 8 && number != 44) 
+            {
+                e.Handled = true;
             }
         }
     }

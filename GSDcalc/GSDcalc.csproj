@@ -57,6 +57,9 @@
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="Ground Sample Distance.en.resx">
+      <DependentUpon>Ground Sample Distance.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Ground Sample Distance.resx">
       <DependentUpon>Ground Sample Distance.cs</DependentUpon>
     </EmbeddedResource>
